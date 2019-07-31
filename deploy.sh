@@ -1,3 +1,4 @@
+#!/usr/bin/env sh
 echo 复制deploy_plugin下的所有目录到dist/js
 cp -r deploy_plugin/* dist/js/
 
